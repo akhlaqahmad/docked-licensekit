@@ -1,0 +1,27 @@
+{
+  "object" : {
+    "artifacts" : [
+
+    ],
+    "dependencies" : [
+      {
+        "basedOn" : null,
+        "packageRef" : {
+          "identity" : "appcore",
+          "kind" : "fileSystem",
+          "location" : "/Users/akhlaqahmad/local-projects/my-dock-my/DockedMy/Packages/AppCore",
+          "name" : "AppCore"
+        },
+        "state" : {
+          "name" : "fileSystem",
+          "path" : "/Users/akhlaqahmad/local-projects/my-dock-my/DockedMy/Packages/AppCore"
+        },
+        "subpath" : "appcore"
+      }
+    ],
+    "prebuilts" : [
+
+    ]
+  },
+  "version" : 7
+}

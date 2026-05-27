@@ -1,0 +1,12 @@
+{
+  "": {
+    "swift-dependencies": "/Users/akhlaqahmad/local-projects/my-dock-my/DockedMy/Packages/LicenseKit/.build/arm64-apple-macosx/debug/LicenseKit.build/primary.swiftdeps"
+  },
+  "/Users/akhlaqahmad/local-projects/my-dock-my/DockedMy/Packages/LicenseKit/Sources/LicenseKit/StoreKitSubscriptionService.swift": {
+    "dependencies": "/Users/akhlaqahmad/local-projects/my-dock-my/DockedMy/Packages/LicenseKit/.build/arm64-apple-macosx/debug/LicenseKit.build/StoreKitSubscriptionService.d",
+    "object": "/Users/akhlaqahmad/local-projects/my-dock-my/DockedMy/Packages/LicenseKit/.build/arm64-apple-macosx/debug/LicenseKit.build/StoreKitSubscriptionService.swift.o",
+    "swiftmodule": "/Users/akhlaqahmad/local-projects/my-dock-my/DockedMy/Packages/LicenseKit/.build/arm64-apple-macosx/debug/LicenseKit.build/StoreKitSubscriptionService~partial.swiftmodule",
+    "swift-dependencies": "/Users/akhlaqahmad/local-projects/my-dock-my/DockedMy/Packages/LicenseKit/.build/arm64-apple-macosx/debug/LicenseKit.build/StoreKitSubscriptionService.swiftdeps",
+    "diagnostics": "/Users/akhlaqahmad/local-projects/my-dock-my/DockedMy/Packages/LicenseKit/.build/arm64-apple-macosx/debug/LicenseKit.build/StoreKitSubscriptionService.dia"
+  }
+}
